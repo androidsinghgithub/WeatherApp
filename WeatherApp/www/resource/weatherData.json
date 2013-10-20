@@ -1,0 +1,34 @@
+{
+    "weatherForcast": [
+        {
+            "Date": "10th OCt 2013",
+            "MinTemp": "20 c",
+            "MaxTemp": "30c",
+            "CloudCover": "PartlyCloudy"
+        },
+        {
+            "Date": "11th OCt 2013",
+            "MinTemp": "21 c",
+            "MaxTemp": "35c",
+            "CloudCover": " Cloudy"
+        },
+        {
+            "Date": "12th OCt 2013",
+            "MinTemp": "22 c",
+            "MaxTemp": "33c",
+            "CloudCover": "rainy"
+        },
+        {
+            "Date": "13th OCt 2013",
+            "MinTemp": "23 c",
+            "MaxTemp": "34c",
+            "CloudCover": "heavy rain"
+        },
+        {
+            "Date": "14th OCt 2013",
+            "MinTemp": "25 c",
+            "MaxTemp": "35c",
+            "CloudCover": "strom"
+        }
+    ]
+}

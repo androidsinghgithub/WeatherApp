@@ -1,0 +1,28 @@
+.wSearchCls
+{
+	background-color: #0EB989;
+	
+}
+.weatherCitytxtFldCls
+{
+margin-top: 200px;
+width: 81%;
+margin-left: 8%;
+margin-right: 10%;
+}
+
+.weatherSearchbtnCls
+{
+margin-top: 20px;
+width: 47%;
+margin-left: 26%;
+}
+
+.heading {
+color: rgb(223, 35, 240);
+font-size: 30px;
+background-color: rgb(80, 48, 209);
+margin-top: 2%;
+margin-left: 2%;
+margin-right: 2%;
+}

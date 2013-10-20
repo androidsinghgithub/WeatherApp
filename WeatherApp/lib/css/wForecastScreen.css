@@ -1,0 +1,35 @@
+.wPanel
+{
+	background-color: #0EB989; ;
+	
+}
+.wList
+{
+	background-color: #0EB989 ;
+	
+}
+
+.weatherForcastHmbtnCls
+{
+margin-left: 200px;	
+}
+.forcastOkBtnCls
+{
+margin-top: 20px;
+width: 27%;
+margin-left: 29%;
+}
+.myImgDiv
+{
+float: left;
+margin-right: 2%;
+}
+.myImgDiv_img{
+height: 221px;
+}
+.dateDiv
+{
+font-size: 29px;
+color: white;
+}
+
